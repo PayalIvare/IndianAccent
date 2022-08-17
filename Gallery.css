@@ -1,0 +1,683 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.65), rgba(0,0,0,0.65)), url("images/25549785.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 622px;
+}
+
+.u-section-1 .u-text-1 {
+  transition-duration: 0.5s;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  font-weight: 700;
+  margin: 234px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 63px 218px 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 513px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 393px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 295px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 164px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 510px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 214px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 51px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+.u-section-1 .u-text-1,
+.u-section-1 .u-text-1:before,
+.u-section-1 .u-text-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-container-layout:hover .u-text-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-text-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 435px;
+}
+
+.u-section-2 .u-gallery-1 {
+  height: 364px;
+  grid-gap: 17px 17px;
+  margin: 36px 0;
+}
+
+.u-section-2 .u-gallery-inner-1 {
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 17px 17px;
+}
+
+.u-section-2 .u-over-slide-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 371px;
+  }
+
+  .u-section-2 .u-gallery-1 {
+    height: 300px;
+    grid-template-columns: repeat(3, auto);
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-gallery-inner-1 {
+    grid-template-columns: repeat(4, auto);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 263px;
+  }
+
+  .u-section-2 .u-gallery-1 {
+    height: 263px;
+    grid-template-columns: repeat(2, auto);
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-gallery-inner-1 {
+    grid-template-columns: repeat(3, auto);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1381px;
+  }
+
+  .u-section-2 .u-gallery-1 {
+    height: 1381px;
+    grid-template-columns: repeat(1, auto);
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-gallery-inner-1 {
+    grid-template-columns: repeat(1, auto);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 869px;
+  }
+
+  .u-section-2 .u-gallery-1 {
+    height: 869px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 364px;
+}
+
+.u-section-3 .u-gallery-1 {
+  height: 364px;
+  margin-top: 11px;
+  margin-bottom: 0;
+  grid-gap: 17px 17px;
+}
+
+.u-section-3 .u-gallery-inner-1 {
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 17px 17px;
+}
+
+.u-section-3 .u-over-slide-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-3 .u-over-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-3 .u-over-slide-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-3 .u-over-slide-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 300px;
+  }
+
+  .u-section-3 .u-gallery-1 {
+    grid-template-columns: repeat(3, auto);
+    height: 300px;
+  }
+
+  .u-section-3 .u-gallery-inner-1 {
+    grid-template-columns: repeat(4, auto);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 919px;
+  }
+
+  .u-section-3 .u-gallery-1 {
+    grid-template-columns: repeat(2, auto);
+    height: 919px;
+  }
+
+  .u-section-3 .u-gallery-inner-1 {
+    grid-template-columns: repeat(3, auto);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 2757px;
+  }
+
+  .u-section-3 .u-gallery-1 {
+    grid-template-columns: repeat(1, auto);
+    height: 2757px;
+  }
+
+  .u-section-3 .u-gallery-inner-1 {
+    grid-template-columns: repeat(1, auto);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1736px;
+  }
+
+  .u-section-3 .u-gallery-1 {
+    height: 1736px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 421px;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  width: 1046px;
+  margin: 61px auto 0;
+}
+
+.u-section-4 .u-layout-cell-1 {
+  min-height: 348px;
+}
+
+.u-section-4 .u-image-1 {
+  background-image: url("images/Enjoyfourseason-MUSHROOM-MATAR-KULCHA.jpg");
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-4 .u-layout-cell-2 {
+  min-height: 438px;
+}
+
+.u-section-4 .u-image-2 {
+  background-image: url("images/dodha-burfi-recipe-1.jpg");
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 25px 0;
+}
+
+.u-section-4 .u-group-1 {
+  min-height: 240px;
+  width: 318px;
+  background-image: none;
+  margin: 0 auto 0 -204px;
+}
+
+.u-section-4 .u-container-layout-3 {
+  padding: 1px 30px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 20px auto 0;
+}
+
+.u-section-4 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 351px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 313px;
+    background-position: 50% 50%;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 394px;
+    background-position: 50% 50%;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 240px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 302px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 360px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 453px;
+  }
+
+  .u-section-4 .u-group-1 {
+    margin-top: -217px;
+    margin-left: auto;
+  }
+
+  .u-section-4 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-layout-wrap-1 {
+    width: 340px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 227px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 285px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .u-section-4 .u-group-1 {
+    min-height: 216px;
+    width: 288px;
+    margin-top: -140px;
+  }
+}.u-section-5 .u-sheet-1 {
+  min-height: 419px;
+}
+
+.u-section-5 .u-gallery-1 {
+  height: 364px;
+  margin-top: 55px;
+  margin-bottom: 0;
+  grid-gap: 17px 17px;
+}
+
+.u-section-5 .u-gallery-inner-1 {
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 17px 17px;
+}
+
+.u-section-5 .u-over-slide-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-5 .u-over-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-5 .u-over-slide-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-5 .u-over-slide-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 355px;
+  }
+
+  .u-section-5 .u-gallery-1 {
+    height: 300px;
+    grid-template-columns: repeat(3, auto);
+  }
+
+  .u-section-5 .u-gallery-inner-1 {
+    grid-template-columns: repeat(4, auto);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 263px;
+  }
+
+  .u-section-5 .u-gallery-1 {
+    height: 919px;
+    grid-template-columns: repeat(2, auto);
+  }
+
+  .u-section-5 .u-gallery-inner-1 {
+    grid-template-columns: repeat(3, auto);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 1381px;
+  }
+
+  .u-section-5 .u-gallery-1 {
+    height: 2757px;
+    grid-template-columns: repeat(1, auto);
+  }
+
+  .u-section-5 .u-gallery-inner-1 {
+    grid-template-columns: repeat(1, auto);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 869px;
+  }
+
+  .u-section-5 .u-gallery-1 {
+    height: 1736px;
+  }
+} .u-section-6 {
+  background-image: none;
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 508px;
+}
+
+.u-section-6 .u-layout-wrap-1 {
+  width: 1143px;
+  background-image: none;
+  margin: 51px -1px 60px;
+}
+
+.u-section-6 .u-layout-cell-1 {
+  min-height: 384px;
+}
+
+.u-section-6 .u-image-1 {
+  background-image: url("images/Intense-Chocolate-Rum-Balls-0765-Copy.jpg");
+}
+
+.u-section-6 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-6 .u-layout-cell-2 {
+  min-height: 384px;
+}
+
+.u-section-6 .u-image-2 {
+  background-image: url("images/P1190976b.jpg");
+}
+
+.u-section-6 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-6 .u-layout-cell-3 {
+  min-height: 384px;
+}
+
+.u-section-6 .u-image-3 {
+  background-image: url("images/ice-cream-vanilla-bean.jpg");
+}
+
+.u-section-6 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-6 .u-layout-cell-4 {
+  min-height: 384px;
+}
+
+.u-section-6 .u-image-4 {
+  background-image: url("images/maxresdefault.jpg");
+}
+
+.u-section-6 .u-container-layout-4 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 431px;
+  }
+
+  .u-section-6 .u-layout-wrap-1 {
+    width: 940px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-6 .u-layout-cell-1 {
+    background-position: 50% 50%;
+    min-height: 316px;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    background-position: 50% 50%;
+    min-height: 316px;
+  }
+
+  .u-section-6 .u-layout-cell-3 {
+    background-position: 50% 50%;
+    min-height: 316px;
+  }
+
+  .u-section-6 .u-layout-cell-4 {
+    background-position: 50% 50%;
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 348px;
+  }
+
+  .u-section-6 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-6 .u-layout-cell-1 {
+    min-height: 545px;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    min-height: 545px;
+  }
+
+  .u-section-6 .u-layout-cell-3 {
+    min-height: 545px;
+  }
+
+  .u-section-6 .u-layout-cell-4 {
+    min-height: 242px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 2439px;
+  }
+
+  .u-section-6 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-6 .u-layout-cell-1 {
+    min-height: 818px;
+  }
+
+  .u-section-6 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    min-height: 818px;
+  }
+
+  .u-section-6 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-6 .u-layout-cell-3 {
+    min-height: 818px;
+  }
+
+  .u-section-6 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-6 .u-layout-cell-4 {
+    min-height: 726px;
+  }
+
+  .u-section-6 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 1564px;
+  }
+
+  .u-section-6 .u-layout-wrap-1 {
+    width: 340px;
+  }
+
+  .u-section-6 .u-layout-cell-1 {
+    min-height: 515px;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    min-height: 515px;
+  }
+
+  .u-section-6 .u-layout-cell-3 {
+    min-height: 515px;
+  }
+
+  .u-section-6 .u-layout-cell-4 {
+    min-height: 457px;
+  }
+}html,body {
+    margin:0;
+    padding:0;
+    overflow-x:hidden;
+}
